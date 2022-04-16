@@ -1,0 +1,16 @@
+.navbar-nav {
+    list-style-type: none;
+}
+
+.navbar-nav li{
+    margin-left: 20px;
+}
+
+.container {
+    margin-left: 0px;
+}
+
+.input-group{
+    padding: 5px;
+    margin-left: 20px;
+}
